@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LDL Fitness | O Seu Shape Começa Aqui</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <a href="#home" class="logo">🦁 LDL FITNESS</a>
+            <ul>
+                <li><a href="#sobre">SOBRE NÓS</a></li>
+                <li><a href="#servicos">SERVIÇOS</a></li>
+                <li><a href="#treinador">TREINADOR</a></li>
+                <li><a href="#contato">CONTATO</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h1>LDL Fitness</h1>
+        <p style="color: white; font-size: 24px;">O SEU SHAPE COMEÇA AQUI</p>
+        <a href="#contato" class="btn">Visite-nós</a>
+    </section>
+
+    <div class="bg-cinza">
+        <section id="sobre">
+            <h2>Sobre Nós</h2>
+            <p>A <strong>LDL Fitness</strong> é o território de quem não aceita desculpas. Unimos a força bruta do treino raiz com a precisão da ciência esportiva. Aqui, você não é apenas mais um aluno; você é parte da matilha que busca a excelência física e mental todos os dias.</p>
+            <p>O que começou com um par de halteres e a determinação do Coach Lucas, transformou-se na LDL Fitness. O nome carrega o peso da nossa trajetória: <strong>Lealdade, Disciplina e Luta</strong>. Evoluímos de um estúdio personalizado para um centro de performance que é referência em resultados reais e transformações de impacto.</p>
+        </section>
+    </div>
+
+    <section id="servicos">
+        <h2>Nossos Serviços</h2>
+        <p>Treine com quem entende. O nosso Head Coach oferece dois protocolos exclusivos focados no seu objetivo.</p>
+        <div class="cards-container">
+            <div class="card">
+                <h3>Protocolo MASS</h3>
+                <p>Foco total em volume muscular e densidade, utilizando métodos de falha concêntrica e periodização de força. Ideal para hipertrofia bruta.</p>
+            </div>
+            <div class="card">
+                <h3>Protocolo CUT</h3>
+                <p>Mix de musculação de alta intensidade com estímulos metabólicos para derreter gordura mantendo a massa magra extrema definição.</p>
+            </div>
+        </div>
+    </section>
+
+    <div class="bg-cinza">
+        <section id="treinador">
+            <h2>O Treinador</h2>
+            <h3 style="color: white; font-size: 28px; margin-bottom: 10px;">Lucas "Leão" Diniz</h3>
+            <p style="color: var(--amarelo); font-weight: bold; margin-bottom: 20px;">CREF 000000-G/SP</p>
+            <p>Referência em musculação competitiva e reabilitação física. Lucas acredita que o treino perfeito é aquele que desafia seus limites com técnica impecável. Especialista em levar pessoas comuns ao nível de atletas, com mais de 10 anos de experiência transformando físicos.</p>
+        </section>
+    </div>
+
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>Pronto para sair da zona de conforto? Fale com a nossa equipe hoje mesmo.</p>
+        <ul class="contato-info">
+            <li><strong>📍 Endereço:</strong> Av. Principal do Fitness, 1234 – Centro, Estância/SE</li>
+            <li><strong>📞 WhatsApp:</strong> (79) 98765-4321</li>
+            <li><strong>📸 Instagram:</strong> @ldlfitness_oficial</li>
+            <li><strong>📧 E-mail:</strong> contato@ldlfitness.com.br</li>
+        </ul>
+        <br>
+        <a href="#" class="btn">CHAMAR NO WHATSAPP</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 LDL Fitness. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
